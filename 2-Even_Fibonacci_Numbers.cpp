@@ -1,6 +1,6 @@
 // https://projecteuler.net/problem=2
 // Output: 4613732
-// Time: 0.05s
+// Time: 0.1s
 #include <iostream>
 #include <vector>
 using namespace std;

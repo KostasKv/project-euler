@@ -1,6 +1,6 @@
 // https://projecteuler.net/problem=7
 // Output: 104743
-// Time: 0.69s
+// Time: 0.7s
 #include <iostream>
 #include <cmath>
 #include <vector>

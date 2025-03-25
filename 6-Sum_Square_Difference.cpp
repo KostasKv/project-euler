@@ -1,6 +1,6 @@
 // https://projecteuler.net/problem=6
 // Output: 25164150
-// Time: 0.44s
+// Time: 0.4s
 #include <iostream>
 #include <cmath>
 using namespace std;
