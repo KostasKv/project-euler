@@ -13,5 +13,13 @@ int main() {
 }
 
 long long choose(int n, int k) {
-    return k == 0 ? 1 : n * choose(n - 1, k - 1) / k;
+    if (k == 0) {
+        return 1; 
+    }
+
+    if (n - k < k) {
+        k = n - k;
+    }
+
+    return n * choose(n - 1, k - 1) / k;
 }
