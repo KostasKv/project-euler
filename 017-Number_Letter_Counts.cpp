@@ -1,8 +1,7 @@
-// https://projecteuler.net/problem=16
+// https://projecteuler.net/problem=17
 // Output: 21124
 // Time: 0.4s
 #include <iostream>
-#include <string>
 using namespace std;
 
 string numberToSpacelessWords(int num) {
