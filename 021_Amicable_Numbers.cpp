@@ -19,8 +19,6 @@ int main() {
     }
 
     cout << answer << endl;
-
-    return 0;
 }
 
 int sumProperDivisors(int n) {
