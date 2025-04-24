@@ -1,10 +1,7 @@
 // https://projecteuler.net/problem=23
 // Output: 4179871
 // Time: 0.6s
-#include <algorithm>
-#include <fstream>
 #include <iostream>
-#include <string>
 #include <vector>
 using namespace std;
 
